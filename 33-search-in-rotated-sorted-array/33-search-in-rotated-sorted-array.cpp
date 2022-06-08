@@ -32,13 +32,7 @@ public:
                 right=mid;
             else if(target>nums[mid])
                 left=mid;
-            
-            try{
-                mid=left+(right-left)/2;
-            }
-            catch(...){
-                cout<<"! Exception !";
-            }                                
+            mid=left+(right-left)/2;
         }
         if(target==nums[0])
             return (pivot)%nums.size();
