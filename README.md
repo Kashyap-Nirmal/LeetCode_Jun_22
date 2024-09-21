@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1791-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
