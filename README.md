@@ -26,7 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
-| [2876-number-of-employees-who-met-the-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3515-find-if-digit-game-can-be-won) |
