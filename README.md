@@ -26,7 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
-| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2798-number-of-employees-who-met-the-target) |
