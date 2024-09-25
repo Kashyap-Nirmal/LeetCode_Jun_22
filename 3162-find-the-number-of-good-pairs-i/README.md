@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-number-of-good-pairs-i">3446. Find the Number of Good Pairs I</a></h2><h3>Easy</h3><hr><p>You are given 2 integer arrays <code>nums1</code> and <code>nums2</code> of lengths <code>n</code> and <code>m</code> respectively. You are also given a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-number-of-good-pairs-i">3162. Find the Number of Good Pairs I</a></h2><h3>Easy</h3><hr><p>You are given 2 integer arrays <code>nums1</code> and <code>nums2</code> of lengths <code>n</code> and <code>m</code> respectively. You are also given a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>A pair <code>(i, j)</code> is called <strong>good</strong> if <code>nums1[i]</code> is divisible by <code>nums2[j] * k</code> (<code>0 &lt;= i &lt;= n - 1</code>, <code>0 &lt;= j &lt;= m - 1</code>).</p>
 
