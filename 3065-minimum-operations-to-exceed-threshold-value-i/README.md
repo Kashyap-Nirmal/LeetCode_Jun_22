@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i">3331. Minimum Operations to Exceed Threshold Value I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>, and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i">3065. Minimum Operations to Exceed Threshold Value I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>, and an integer <code>k</code>.</p>
 
 <p>In one operation, you can remove one occurrence of the smallest element of <code>nums</code>.</p>
 
