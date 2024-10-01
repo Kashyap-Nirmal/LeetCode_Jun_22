@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
+| [1651-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1651-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
+| [1651-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
