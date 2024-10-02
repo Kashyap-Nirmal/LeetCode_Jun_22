@@ -108,9 +108,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
-| [2384-root-equals-sum-of-children](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2384-root-equals-sum-of-children) |
+| [2236-root-equals-sum-of-children](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
-| [2384-root-equals-sum-of-children](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2384-root-equals-sum-of-children) |
+| [2236-root-equals-sum-of-children](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
