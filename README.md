@@ -24,7 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
-| [1899-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1899-count-items-matching-a-rule) |
+| [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
@@ -43,7 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
-| [1899-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1899-count-items-matching-a-rule) |
+| [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
