@@ -21,7 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
-| [0742-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0742-to-lower-case) |
+| [0709-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
