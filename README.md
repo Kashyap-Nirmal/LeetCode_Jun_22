@@ -46,7 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
-| [1833-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1833-find-the-highest-altitude) |
+| [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -92,7 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
-| [1833-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1833-find-the-highest-altitude) |
+| [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
