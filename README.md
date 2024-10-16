@@ -13,12 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3099-harshad-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3099-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -137,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2236-root-equals-sum-of-children) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
