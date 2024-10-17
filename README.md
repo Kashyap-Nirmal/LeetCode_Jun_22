@@ -32,7 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
-| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3412-permutation-difference-between-two-strings) |
@@ -59,7 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2956-find-common-elements-between-two-arrays) |
-| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
