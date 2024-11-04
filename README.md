@@ -22,7 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
-| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -72,7 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
-| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -137,7 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
-| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,7 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
