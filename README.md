@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -59,10 +60,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
