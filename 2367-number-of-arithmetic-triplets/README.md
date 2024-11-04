@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-arithmetic-triplets">2442. Number of Arithmetic Triplets</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong>, <strong>strictly increasing</strong> integer array <code>nums</code> and a positive integer <code>diff</code>. A triplet <code>(i, j, k)</code> is an <strong>arithmetic triplet</strong> if the following conditions are met:</p>
+<h2><a href="https://leetcode.com/problems/number-of-arithmetic-triplets">2367. Number of Arithmetic Triplets</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong>, <strong>strictly increasing</strong> integer array <code>nums</code> and a positive integer <code>diff</code>. A triplet <code>(i, j, k)</code> is an <strong>arithmetic triplet</strong> if the following conditions are met:</p>
 
 <ul>
 	<li><code>i &lt; j &lt; k</code>,</li>
