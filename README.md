@@ -45,7 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
-| [3312-number-of-changing-keys](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3312-number-of-changing-keys) |
+| [3019-number-of-changing-keys](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3019-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3412-permutation-difference-between-two-strings) |
 ## Array
 |  |

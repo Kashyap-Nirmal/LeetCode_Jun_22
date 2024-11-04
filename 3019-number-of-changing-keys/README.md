@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-changing-keys">3312. Number of Changing Keys</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed </strong>string <code>s</code> typed by a user. Changing a key is defined as using a key different from the last used key. For example, <code>s = &quot;ab&quot;</code> has a change of a key while <code>s = &quot;bBBb&quot;</code> does not have any.</p>
+<h2><a href="https://leetcode.com/problems/number-of-changing-keys">3019. Number of Changing Keys</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed </strong>string <code>s</code> typed by a user. Changing a key is defined as using a key different from the last used key. For example, <code>s = &quot;ab&quot;</code> has a change of a key while <code>s = &quot;bBBb&quot;</code> does not have any.</p>
 
 <p>Return <em>the number of times the user had to change the key. </em></p>
 
