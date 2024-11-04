@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
+| [1137-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1137-height-checker) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
@@ -76,10 +77,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
-| [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
+| [1137-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
