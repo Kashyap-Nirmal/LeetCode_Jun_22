@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2238-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -166,8 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
-| [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
