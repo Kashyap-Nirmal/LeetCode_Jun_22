@@ -10,9 +10,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
-| [2119-a-number-after-a-double-reversal](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
