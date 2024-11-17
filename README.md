@@ -52,7 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3412-permutation-difference-between-two-strings) |
-| [3447-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3447-clear-digits) |
+| [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -190,7 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-| [3447-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3447-clear-digits) |
+| [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,7 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
-| [3447-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3447-clear-digits) |
+| [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
