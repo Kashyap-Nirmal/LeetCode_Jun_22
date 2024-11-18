@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square">1920. Determine Color of a Chessboard Square</a></h2><h3>Easy</h3><hr><p>You are given <code>coordinates</code>, a string that represents the coordinates of a square of the chessboard. Below is a chessboard for your reference.</p>
+<h2><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square">1812. Determine Color of a Chessboard Square</a></h2><h3>Easy</h3><hr><p>You are given <code>coordinates</code>, a string that represents the coordinates of a square of the chessboard. Below is a chessboard for your reference.</p>
 
 <p><img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/screenshot-2021-02-20-at-22159-pm.png" style="width: 400px; height: 396px;" /></p>
 
