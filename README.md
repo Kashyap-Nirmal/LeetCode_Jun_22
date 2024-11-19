@@ -48,7 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
-| [2819-remove-trailing-zeros-from-a-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3019-number-of-changing-keys) |
