@@ -39,7 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1812-determine-color-of-a-chessboard-square) |
-| [1823-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1844-replace-all-digits-with-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -175,7 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
-| [1823-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
