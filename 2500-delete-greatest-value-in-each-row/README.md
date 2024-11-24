@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/delete-greatest-value-in-each-row">2585. Delete Greatest Value in Each Row</a></h2><h3>Easy</h3><hr><p>You are given an <code>m x n</code> matrix <code>grid</code> consisting of positive integers.</p>
+<h2><a href="https://leetcode.com/problems/delete-greatest-value-in-each-row">2500. Delete Greatest Value in Each Row</a></h2><h3>Easy</h3><hr><p>You are given an <code>m x n</code> matrix <code>grid</code> consisting of positive integers.</p>
 
 <p>Perform the following operation until <code>grid</code> becomes empty:</p>
 
