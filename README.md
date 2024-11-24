@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2733-neither-minimum-nor-maximum) |
@@ -99,11 +100,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
-| [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -139,14 +140,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2956-find-common-elements-between-two-arrays) |
-| [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
@@ -221,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
