@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
@@ -85,10 +86,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2733-neither-minimum-nor-maximum) |
@@ -200,8 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
-| [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
