@@ -64,10 +64,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1051-height-checker) |
-| [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
