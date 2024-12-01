@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-string-length">2825. Minimize String Length</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, you have two types of operation:</p>
+<h2><a href="https://leetcode.com/problems/minimize-string-length">2716. Minimize String Length</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, you have two types of operation:</p>
 
 <ol>
 	<li>Choose an index <code>i</code> in the string, and let <code>c</code> be the character in position <code>i</code>. <strong>Delete</strong> the <strong>closest occurrence</strong> of <code>c</code> to the <strong>left</strong> of <code>i</code> (if exists).</li>
