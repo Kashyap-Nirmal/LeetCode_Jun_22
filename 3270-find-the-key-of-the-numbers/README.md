@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-key-of-the-numbers">3568. Find the Key of the Numbers</a></h2><h3>Easy</h3><hr><p>You are given three <strong>positive</strong> integers <code>num1</code>, <code>num2</code>, and <code>num3</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-key-of-the-numbers">3270. Find the Key of the Numbers</a></h2><h3>Easy</h3><hr><p>You are given three <strong>positive</strong> integers <code>num1</code>, <code>num2</code>, and <code>num3</code>.</p>
 
 <p>The <code>key</code> of <code>num1</code>, <code>num2</code>, and <code>num3</code> is defined as a four-digit number such that:</p>
 
