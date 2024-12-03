@@ -200,7 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
-| [0969-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0969-number-of-recent-calls) |
+| [0933-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -273,9 +273,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
-| [0969-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0969-number-of-recent-calls) |
+| [0933-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
-| [0969-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0969-number-of-recent-calls) |
+| [0933-number-of-recent-calls](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
