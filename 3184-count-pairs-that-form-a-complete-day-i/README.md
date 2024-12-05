@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i">3421. Count Pairs That Form a Complete Day I</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>hours</code> representing times in <strong>hours</strong>, return an integer denoting the number of pairs <code>i</code>, <code>j</code> where <code>i &lt; j</code> and <code>hours[i] + hours[j]</code> forms a <strong>complete day</strong>.</p>
+<h2><a href="https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i">3184. Count Pairs That Form a Complete Day I</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>hours</code> representing times in <strong>hours</strong>, return an integer denoting the number of pairs <code>i</code>, <code>j</code> where <code>i &lt; j</code> and <code>hours[i] + hours[j]</code> forms a <strong>complete day</strong>.</p>
 
 <p>A <strong>complete day</strong> is defined as a time duration that is an <strong>exact</strong> <strong>multiple</strong> of 24 hours.</p>
 
