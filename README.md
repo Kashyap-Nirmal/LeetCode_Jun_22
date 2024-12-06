@@ -9,7 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
-| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -77,7 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1313-decompress-run-length-encoded-list](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
-| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
