@@ -90,7 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-| [2159-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2159-two-out-of-three) |
+| [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -149,7 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-| [2159-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2159-two-out-of-three) |
+| [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2716-minimize-string-length](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2716-minimize-string-length) |
@@ -232,7 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
-| [2159-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2159-two-out-of-three) |
+| [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 ## Tree
 |  |
 | ------- |
