@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2652-sum-multiples](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3270-find-the-key-of-the-numbers) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3227-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3227-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
