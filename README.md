@@ -82,7 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
-| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
