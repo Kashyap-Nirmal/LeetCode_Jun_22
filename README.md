@@ -98,8 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3221-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3221-find-the-peaks) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
@@ -196,8 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3221-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
