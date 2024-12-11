@@ -120,7 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
-| [3221-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3221-find-the-peaks) |
+| [2951-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2951-find-the-peaks) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
@@ -270,7 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
-| [3221-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3221-find-the-peaks) |
+| [2951-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2951-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
