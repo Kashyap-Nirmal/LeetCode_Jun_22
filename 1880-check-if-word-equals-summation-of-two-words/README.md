@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-word-equals-summation-of-two-words">2010. Check if Word Equals Summation of Two Words</a></h2><h3>Easy</h3><hr><p>The <strong>letter value</strong> of a letter is its position in the alphabet <strong>starting from 0</strong> (i.e. <code>&#39;a&#39; -&gt; 0</code>, <code>&#39;b&#39; -&gt; 1</code>, <code>&#39;c&#39; -&gt; 2</code>, etc.).</p>
+<h2><a href="https://leetcode.com/problems/check-if-word-equals-summation-of-two-words">1880. Check if Word Equals Summation of Two Words</a></h2><h3>Easy</h3><hr><p>The <strong>letter value</strong> of a letter is its position in the alphabet <strong>starting from 0</strong> (i.e. <code>&#39;a&#39; -&gt; 0</code>, <code>&#39;b&#39; -&gt; 1</code>, <code>&#39;c&#39; -&gt; 2</code>, etc.).</p>
 
 <p>The <strong>numerical value</strong> of some string of lowercase English letters <code>s</code> is the <strong>concatenation</strong> of the <strong>letter values</strong> of each letter in <code>s</code>, which is then <strong>converted</strong> into an integer.</p>
 
