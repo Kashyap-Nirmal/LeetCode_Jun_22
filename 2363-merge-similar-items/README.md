@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/merge-similar-items">2447. Merge Similar Items</a></h2><h3>Easy</h3><hr><p>You are given two 2D integer arrays, <code>items1</code> and <code>items2</code>, representing two sets of items. Each array <code>items</code> has the following properties:</p>
+<h2><a href="https://leetcode.com/problems/merge-similar-items">2363. Merge Similar Items</a></h2><h3>Easy</h3><hr><p>You are given two 2D integer arrays, <code>items1</code> and <code>items2</code>, representing two sets of items. Each array <code>items</code> has the following properties:</p>
 
 <ul>
 	<li><code>items[i] = [value<sub>i</sub>, weight<sub>i</sub>]</code> where <code>value<sub>i</sub></code> represents the <strong>value</strong> and <code>weight<sub>i</sub></code> represents the <strong>weight </strong>of the <code>i<sup>th</sup></code> item.</li>
