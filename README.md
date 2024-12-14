@@ -128,7 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3311-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3311-ant-on-the-boundary) |
+| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Linked List
 |  |
@@ -188,7 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
-| [3311-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3311-ant-on-the-boundary) |
+| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,7 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-| [3311-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3311-ant-on-the-boundary) |
+| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
 | ------- |

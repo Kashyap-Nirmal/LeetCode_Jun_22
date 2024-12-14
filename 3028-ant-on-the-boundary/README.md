@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/ant-on-the-boundary">3311. Ant on the Boundary</a></h2><h3>Easy</h3><hr><p>An ant is on a boundary. It sometimes goes <strong>left</strong> and sometimes <strong>right</strong>.</p>
+<h2><a href="https://leetcode.com/problems/ant-on-the-boundary">3028. Ant on the Boundary</a></h2><h3>Easy</h3><hr><p>An ant is on a boundary. It sometimes goes <strong>left</strong> and sometimes <strong>right</strong>.</p>
 
 <p>You are given an array of <strong>non-zero</strong> integers <code>nums</code>. The ant starts reading <code>nums</code> from the first element of it to its end. At each step, it moves according to the value of the current element:</p>
 
