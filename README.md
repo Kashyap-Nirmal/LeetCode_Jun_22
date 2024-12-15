@@ -37,7 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0709-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
-| [0981-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0981-delete-columns-to-make-sorted) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
@@ -75,7 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
-| [0981-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0981-delete-columns-to-make-sorted) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
