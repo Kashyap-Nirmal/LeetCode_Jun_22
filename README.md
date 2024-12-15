@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0709-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0981-delete-columns-to-make-sorted) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0981-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -128,7 +131,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Linked List
 |  |
@@ -240,9 +242,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-| [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
 | ------- |
