@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile">2692. Take Gifts From the Richest Pile</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>gifts</code> denoting the number of gifts in various piles. Every second, you do the following:</p>
+<h2><a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile">2558. Take Gifts From the Richest Pile</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>gifts</code> denoting the number of gifts in various piles. Every second, you do the following:</p>
 
 <ul>
 	<li>Choose the pile with the maximum number of gifts.</li>
