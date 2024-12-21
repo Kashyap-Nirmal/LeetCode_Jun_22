@@ -105,7 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
-| [2421-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -170,7 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
-| [2421-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2716-minimize-string-length](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -230,7 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-| [2421-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-pairs-in-array">2421. Maximum Number of Pairs in Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you may do the following:</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-pairs-in-array">2341. Maximum Number of Pairs in Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you may do the following:</p>
 
 <ul>
 	<li>Choose <strong>two</strong> integers in <code>nums</code> that are <strong>equal</strong>.</li>
