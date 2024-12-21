@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range">2654. Count the Number of Vowel Strings in Range</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of string <code>words</code> and two integers <code>left</code> and <code>right</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range">2586. Count the Number of Vowel Strings in Range</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of string <code>words</code> and two integers <code>left</code> and <code>right</code>.</p>
 
 <p>A string is called a <strong>vowel string</strong> if it starts with a vowel character and ends with a vowel character where vowel characters are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>.</p>
 
