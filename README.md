@@ -56,7 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
-| [2365-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2365-percentage-of-letter-in-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2278-percentage-of-letter-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |

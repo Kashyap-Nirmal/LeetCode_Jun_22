@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/percentage-of-letter-in-string">2365. Percentage of Letter in String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> and a character <code>letter</code>, return<em> the <strong>percentage</strong> of characters in </em><code>s</code><em> that equal </em><code>letter</code><em> <strong>rounded down</strong> to the nearest whole percent.</em></p>
+<h2><a href="https://leetcode.com/problems/percentage-of-letter-in-string">2278. Percentage of Letter in String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> and a character <code>letter</code>, return<em> the <strong>percentage</strong> of characters in </em><code>s</code><em> that equal </em><code>letter</code><em> <strong>rounded down</strong> to the nearest whole percent.</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
