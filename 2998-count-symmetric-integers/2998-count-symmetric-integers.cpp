@@ -1,23 +1,16 @@
 class Solution {
 public:
-    bool checkSymmetric(int num) {
-        int left = num, right = 0; 
-        vector<int> ans;
-        while(left > 0) {
-            ans.push_back(left % 10);
-            left /= 10;
-        }
-        if (ans.size() % 2 != 0) return false;
-        left = 0;
-        for (int i = 0; i < ans.size(); i++) {
-            if (i < ans.size() / 2) left += ans[i];
-            else right += ans[i];
-        }
-        return left == right;
-    }
     int countSymmetricIntegers(int low, int high) {
         int cnt = 0;
-        for (int i = low; i <= high; i++) cnt += checkSymmetric(i);
+        for (int i = low; i <= high; i++) {
+            int left = 0, right = 0;
+            string temp = to_string(i);
+            for (int j = 0; temp.size() % 2 == 0 && j < temp.size(); j++) {
+                if (j < temp.size() / 2) left += temp[j];
+                else right += temp[j];
+            }
+            if (left != 0 && left == right) cnt++;
+        }
         return cnt;
     }
 };
