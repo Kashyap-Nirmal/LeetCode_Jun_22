@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/first-letter-to-appear-twice">2427. First Letter to Appear Twice</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> consisting of lowercase English letters, return <em>the first letter to appear <strong>twice</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/first-letter-to-appear-twice">2351. First Letter to Appear Twice</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> consisting of lowercase English letters, return <em>the first letter to appear <strong>twice</strong></em>.</p>
 
 <p><strong>Note</strong>:</p>
 
