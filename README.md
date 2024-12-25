@@ -22,8 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2652-sum-multiples) |
-| [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
 | [2843-count-symmetric-integers](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2843-count-symmetric-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2278-percentage-of-letter-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2427-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2427-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2716-minimize-string-length](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2427-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
+| [2427-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
@@ -295,8 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2951-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2951-find-the-peaks) |
 | [2843-count-symmetric-integers](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2951-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
