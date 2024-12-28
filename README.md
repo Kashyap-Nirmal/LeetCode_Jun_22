@@ -132,7 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
-| [3034-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3034-points-that-intersect-with-cars) |
+| [2848-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2848-points-that-intersect-with-cars) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -184,7 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3005-count-elements-with-maximum-frequency) |
-| [3034-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3034-points-that-intersect-with-cars) |
+| [2848-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2848-points-that-intersect-with-cars) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -206,7 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3028-ant-on-the-boundary) |
-| [3034-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3034-points-that-intersect-with-cars) |
+| [2848-points-that-intersect-with-cars](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2848-points-that-intersect-with-cars) |
 ## Binary Search
 |  |
 | ------- |
