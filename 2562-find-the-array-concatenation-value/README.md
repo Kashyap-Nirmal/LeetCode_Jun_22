@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-array-concatenation-value">2698. Find the Array Concatenation Value</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-array-concatenation-value">2562. Find the Array Concatenation Value</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
 
 <p>The <strong>concatenation</strong> of two numbers is the number formed by concatenating their numerals.</p>
 

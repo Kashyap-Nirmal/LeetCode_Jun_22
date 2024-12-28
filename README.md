@@ -118,7 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
-| [2698-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2698-find-the-array-concatenation-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2562-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -158,7 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
-| [2698-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2698-find-the-array-concatenation-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -262,7 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2558-take-gifts-from-the-richest-pile) |
-| [2698-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2698-find-the-array-concatenation-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2974-minimum-number-game) |
