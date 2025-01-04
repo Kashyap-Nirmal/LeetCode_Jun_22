@@ -57,7 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-| [1970-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1970-sorting-the-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -233,7 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
-| [1970-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1970-sorting-the-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
