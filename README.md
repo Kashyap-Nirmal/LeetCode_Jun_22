@@ -55,7 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1945-sum-of-digits-of-string-after-convert) |
-| [1960-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1859-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
@@ -181,7 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
-| [1960-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
