@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-the-message">2406. Decode the Message</a></h2><h3>Easy</h3><hr><p>You are given the strings <code>key</code> and <code>message</code>, which represent a cipher key and a secret message, respectively. The steps to decode <code>message</code> are as follows:</p>
+<h2><a href="https://leetcode.com/problems/decode-the-message">2325. Decode the Message</a></h2><h3>Easy</h3><hr><p>You are given the strings <code>key</code> and <code>message</code>, which represent a cipher key and a secret message, respectively. The steps to decode <code>message</code> are as follows:</p>
 
 <ol>
 	<li>Use the <strong>first</strong> appearance of all 26 lowercase English letters in <code>key</code> as the <strong>order</strong> of the substitution table.</li>
