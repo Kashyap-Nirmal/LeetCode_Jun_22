@@ -66,7 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2418-sort-the-people) |
-| [2580-circular-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2580-circular-sentence) |
+| [2490-circular-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2490-circular-sentence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
