@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
+| [0500-keyboard-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
