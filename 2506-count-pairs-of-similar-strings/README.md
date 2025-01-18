@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-pairs-of-similar-strings">2594. Count Pairs Of Similar Strings</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> string array <code>words</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-pairs-of-similar-strings">2506. Count Pairs Of Similar Strings</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> string array <code>words</code>.</p>
 
 <p>Two strings are <strong>similar</strong> if they consist of the same characters.</p>
 
