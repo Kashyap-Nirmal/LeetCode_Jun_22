@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-common-words-with-one-occurrence">2190. Count Common Words With One Occurrence</a></h2><h3>Easy</h3><hr><p>Given two string arrays <code>words1</code> and <code>words2</code>, return <em>the number of strings that appear <strong>exactly once</strong> in <b>each</b>&nbsp;of the two arrays.</em></p>
+<h2><a href="https://leetcode.com/problems/count-common-words-with-one-occurrence">2085. Count Common Words With One Occurrence</a></h2><h3>Easy</h3><hr><p>Given two string arrays <code>words1</code> and <code>words2</code>, return <em>the number of strings that appear <strong>exactly once</strong> in <b>each</b>&nbsp;of the two arrays.</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
