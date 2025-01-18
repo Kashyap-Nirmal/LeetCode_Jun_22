@@ -121,7 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
-| [2350-find-closest-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2350-find-closest-number-to-zero) |
+| [2239-find-closest-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2239-find-closest-number-to-zero) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2418-sort-the-people) |
