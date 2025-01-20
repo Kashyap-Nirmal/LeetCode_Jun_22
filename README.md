@@ -21,7 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
-| [1642-water-bottles](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1642-water-bottles) |
+| [1518-water-bottles](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -302,7 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1603-design-parking-system) |
-| [1642-water-bottles](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1642-water-bottles) |
+| [1518-water-bottles](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
