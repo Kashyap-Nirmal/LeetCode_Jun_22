@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-value-of-a-string-in-an-array">2589. Maximum Value of a String in an Array</a></h2><h3>Easy</h3><hr><p>The <strong>value</strong> of an alphanumeric string can be defined as:</p>
+<h2><a href="https://leetcode.com/problems/maximum-value-of-a-string-in-an-array">2496. Maximum Value of a String in an Array</a></h2><h3>Easy</h3><hr><p>The <strong>value</strong> of an alphanumeric string can be defined as:</p>
 
 <ul>
 	<li>The <strong>numeric</strong> representation of the string in base <code>10</code>, if it comprises of digits <strong>only</strong>.</li>
