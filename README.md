@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2278-percentage-of-letter-in-string) |
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2351-first-letter-to-appear-twice) |
