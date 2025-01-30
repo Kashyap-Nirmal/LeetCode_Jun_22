@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0841-shortest-distance-to-a-character) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0682-baseball-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0841-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0896-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1051-height-checker) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0841-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
