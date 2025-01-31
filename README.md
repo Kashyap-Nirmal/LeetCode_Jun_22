@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0228-summary-ranges) |
+| [0463-island-perimeter](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0645-set-mismatch) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
@@ -402,4 +404,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
