@@ -56,7 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
-| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
@@ -214,7 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
-| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
@@ -370,7 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
-| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2843-count-symmetric-integers) |
