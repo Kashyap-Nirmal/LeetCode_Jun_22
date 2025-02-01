@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
@@ -77,9 +78,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
-| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2278-percentage-of-letter-in-string) |
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2351-first-letter-to-appear-twice) |
@@ -137,10 +138,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
+| [2057-smallest-index-with-equal-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
-| [2057-smallest-index-with-equal-value](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2057-smallest-index-with-equal-value) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2843-count-symmetric-integers) |
