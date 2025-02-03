@@ -56,10 +56,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
-| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2278-percentage-of-letter-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2418-sort-the-people) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0821-shortest-distance-to-a-character) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
@@ -214,7 +216,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
-| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2351-first-letter-to-appear-twice) |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Queue
 |  |
