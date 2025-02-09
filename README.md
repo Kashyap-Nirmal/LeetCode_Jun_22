@@ -155,7 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2239-find-closest-number-to-zero) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
@@ -240,7 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2215-find-the-difference-of-two-arrays) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -300,7 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -346,7 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2558-take-gifts-from-the-richest-pile) |
