@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/goat-latin">851. Goat Latin</a></h2><h3>Easy</h3><hr><p>You are given a string <code>sentence</code> that consist of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
+<h2><a href="https://leetcode.com/problems/goat-latin">824. Goat Latin</a></h2><h3>Easy</h3><hr><p>You are given a string <code>sentence</code> that consist of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
 
 <p>We would like to convert the sentence to &quot;Goat Latin&quot; (a made-up language similar to Pig Latin.) The rules of Goat Latin are as follows:</p>
 
