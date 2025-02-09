@@ -63,7 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1547-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1547-destination-city) |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -210,7 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0821-shortest-distance-to-a-character) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2367-number-of-arithmetic-triplets) |
@@ -417,7 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Queue
 |  |
