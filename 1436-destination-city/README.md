@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/destination-city">1547. Destination City</a></h2><h3>Easy</h3><hr><p>You are given the array <code>paths</code>, where <code>paths[i] = [cityA<sub>i</sub>, cityB<sub>i</sub>]</code> means there exists a direct path going from <code>cityA<sub>i</sub></code> to <code>cityB<sub>i</sub></code>. <em>Return the destination city, that is, the city without any path outgoing to another city.</em></p>
+<h2><a href="https://leetcode.com/problems/destination-city">1436. Destination City</a></h2><h3>Easy</h3><hr><p>You are given the array <code>paths</code>, where <code>paths[i] = [cityA<sub>i</sub>, cityB<sub>i</sub>]</code> means there exists a direct path going from <code>cityA<sub>i</sub></code> to <code>cityB<sub>i</sub></code>. <em>Return the destination city, that is, the city without any path outgoing to another city.</em></p>
 
 <p>It is guaranteed that the graph of paths forms a line without any loop, therefore, there will be exactly one destination city.</p>
 

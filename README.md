@@ -62,7 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
-| [1547-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1547-destination-city) |
+| [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
@@ -136,7 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
-| [1547-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1547-destination-city) |
+| [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1732-find-the-highest-altitude) |
@@ -229,7 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1510-find-lucky-integer-in-an-array) |
-| [1547-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1547-destination-city) |
+| [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
