@@ -133,7 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
 | [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
@@ -209,7 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/0821-shortest-distance-to-a-character) |
-| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2000-reverse-prefix-of-word) |
@@ -282,7 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
-| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -295,7 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [1486-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2089-find-target-indices-after-sorting-array) |
