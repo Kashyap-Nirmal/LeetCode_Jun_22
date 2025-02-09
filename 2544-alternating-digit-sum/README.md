@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/alternating-digit-sum">2630. Alternating Digit Sum</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>n</code>. Each digit of <code>n</code> has a sign according to the following rules:</p>
+<h2><a href="https://leetcode.com/problems/alternating-digit-sum">2544. Alternating Digit Sum</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>n</code>. Each digit of <code>n</code> has a sign according to the following rules:</p>
 
 <ul>
 	<li>The <strong>most significant digit</strong> is assigned a <strong>positive</strong> sign.</li>
