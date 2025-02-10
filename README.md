@@ -143,7 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
-| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1925-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1925-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
