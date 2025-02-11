@@ -67,7 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
-| [1746-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -233,7 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
-| [1746-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1832-check-if-the-sentence-is-pangram) |
