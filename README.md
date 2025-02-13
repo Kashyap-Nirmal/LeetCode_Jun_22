@@ -64,10 +64,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1528-shuffle-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1704-determine-if-string-halves-are-alike) |
-| [1624-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
 |  |
 | ------- |
@@ -232,8 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1436-destination-city) |
-| [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Number Theory
 |  |
 | ------- |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
 |  |
 | ------- |
