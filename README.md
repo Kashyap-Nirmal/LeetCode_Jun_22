@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -199,8 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Linked List
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2558-take-gifts-from-the-richest-pile) |
