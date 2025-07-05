@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2965-find-missing-and-repeated-values) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Number Theory
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Kashyap-Nirmal/LeetCode_Jun_22/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
 |  |
 | ------- |
